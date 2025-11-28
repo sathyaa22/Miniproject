@@ -1,4 +1,4 @@
-## ZERO WASTE KITCHEN ASSISTANT 
+# ZERO WASTE KITCHEN ASSISTANT 
 A smart, interactive system designed to help households reduce food waste by tracking pantry items, predicting expiry, analyzing weather impact, suggesting recipes based on available ingredients, and rewarding users for sustainable food habits.
 
 
