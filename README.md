@@ -41,33 +41,32 @@ Additional Dependencies: TailwindCSS (CDN), Service Worker support for notificat
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
 
-#### Output1 - Digital Pantry Dashboard
+### Output1 - Digital Pantry Dashboard
 
 <img width="1916" height="951" alt="ui-login" src="https://github.com/user-attachments/assets/fb7fc918-5c82-4bf2-99fd-0a2c12c2a968" />
 
-#### Output2 - Add Pantry Item
+### Output2 - Add Pantry Item
 
 <img width="1695" height="869" alt="ui-add item" src="https://github.com/user-attachments/assets/4f2eb4e6-a0e9-459c-b6dd-4368933616da" />
 
-#### Output3 - Weather & Expiry Alerts
+### Output3 - Weather & Expiry Alerts
 
 <img width="1914" height="869" alt="ui-weather" src="https://github.com/user-attachments/assets/0f39d5ef-f6a5-494e-b5b8-8c74c4474b67" />
 
-#### Output4 - Ingredient Selection for Recipes
+### Output4 - Ingredient Selection for Recipes
 
 <img width="1118" height="809" alt="ui-select ingredient" src="https://github.com/user-attachments/assets/7dce2d62-3179-433b-a273-f41c112c9172" />
 
-#### Output5 - Suggested Recipe
+### Output5 - Suggested Recipe
 
 <img width="1041" height="506" alt="ui-suggested recipe" src="https://github.com/user-attachments/assets/2313d87c-dbcc-4b26-a96d-54c7df14073b" />
 
-#### Output6 - Recipe Instructions
+### Output6 - Recipe Instructions
 
 <img width="1029" height="455" alt="ui-recipe instructions" src="https://github.com/user-attachments/assets/b119e3dd-28de-4003-b0ee-0f3a2e72c8b0" />
 
-#### Output6 - Reward Points Earned
+### Output6 - Reward Points Earned
 
 <img width="507" height="579" alt="ui-points earned" src="https://github.com/user-attachments/assets/4fb49a8f-38e3-4604-bfbd-d9baf89d0c6a" />
 
