@@ -35,9 +35,8 @@ Additional Dependencies: TailwindCSS (CDN), Service Worker support for notificat
 
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Architecture diagram!](https://github.com/user-attachments/assets/ea0b91bd-97f0-4640-8c8c-8bedd8dcb239)
 
 
 ## Output
