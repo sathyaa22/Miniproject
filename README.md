@@ -36,7 +36,7 @@ Additional Dependencies: TailwindCSS (CDN), Service Worker support for notificat
 
 ## System Architecture
 
-![Architecture diagram!](https://github.com/user-attachments/assets/ea0b91bd-97f0-4640-8c8c-8bedd8dcb239)
+<img width="1179" height="559" alt="image" src="https://github.com/user-attachments/assets/119280e7-2fc1-4197-86da-9beab5680496" />
 
 
 ## Output
