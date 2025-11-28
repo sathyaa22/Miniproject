@@ -42,11 +42,11 @@ Additional Dependencies: TailwindCSS (CDN), Service Worker support for notificat
 ## Output
 
 
-### Output1 - Digital Pantry Dashboard
+### Output1 - Login Page
 
 <img width="1916" height="951" alt="ui-login" src="https://github.com/user-attachments/assets/fb7fc918-5c82-4bf2-99fd-0a2c12c2a968" />
 
-### Output2 - Add Pantry Item
+### Output2 - Digital Pantry Dashboard
 
 <img width="1695" height="869" alt="ui-add item" src="https://github.com/user-attachments/assets/4f2eb4e6-a0e9-459c-b6dd-4368933616da" />
 
