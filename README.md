@@ -66,12 +66,22 @@ Additional Dependencies: TailwindCSS (CDN), Service Worker support for notificat
 
 <img width="1029" height="455" alt="ui-recipe instructions" src="https://github.com/user-attachments/assets/b119e3dd-28de-4003-b0ee-0f3a2e72c8b0" />
 
-### Output6 - Reward Points Earned
+### Output7 - Recipe FeedBack Section
+
+<img width="1084" height="767" alt="ui-gamificatio feedback" src="https://github.com/user-attachments/assets/5d8acb3c-0261-4016-b022-254fd96a56b3" />
+
+
+### Output8 - Reward Points Earned
 
 <img width="507" height="579" alt="ui-points earned" src="https://github.com/user-attachments/assets/4fb49a8f-38e3-4604-bfbd-d9baf89d0c6a" />
 
+### Output9 - Community Recipe
+
+<img width="1111" height="809" alt="ui-community recipe" src="https://github.com/user-attachments/assets/19178c1e-e4a0-4e2b-b8dc-7ef36ee30056" />
+
 
 Detection Accuracy: 96.7%
+
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
@@ -93,7 +103,8 @@ Integration with smart refrigerators
 
 
 ## Articles published / References
-1. Juan C. S. Herrera, “Sustainable Recipes. A Food Recipe Sourcing and Recommendation System to Minimize Food Miles,” arXiv preprint, 2020.
-2. Srilekha Mamidala, “The SLED (Shelf Life Expiration Date) Tracking System: Using Machine Learning Algorithms to Combat Food Waste and Food Borne Illnesses,” arXiv preprint, 2023.
-3. K. J. P. Ortiz, P. N. P. Bautista, M. V. D. Dimailig, A. C. D. Llamzon, “Recipe Recommendation System Using IoT‑Based Food Inventory Management of Perishables for Household Food Waste Reduction,” Chemical Engineering Transactions, vol. 106, 2023, pp. 361–366.
+[1] Q. M. Clark et al., "Exploring the potential of AI-driven food waste management strategies for household adaptation," Frontiers in Artificial Intelligence, vol. 7, 2025.
 
+[2]  L. Reardon, "Chefs' Perceptions of Zero Waste Cooking with AI Assistance in Smart Kitchens," Journal of Culinary Science & Technology, vol. 22, no. 4, pp. 389–405, 2025.
+
+[3] P. Das, A. Singh, and K. Roy, “Climate-Aware Food Recommendation System for Personalized Nutrition,” Journal of Sustainable Computing: Informatics and Systems, vol. 35, pp. 210–225, 2023.
